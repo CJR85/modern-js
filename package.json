@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/CJR85/modern-js#readme",
   "dependencies": {
+    "core-js": "^2.6.12",
     "leaflet": "^1.7.1",
-    "lodash-es": "^4.17.20"
+    "lodash-es": "^4.17.20",
+    "regenerator-runtime": "^0.13.7"
   },
   "devDependencies": {
     "parcel": "^1.12.4"
